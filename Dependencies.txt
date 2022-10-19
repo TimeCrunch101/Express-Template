@@ -1,0 +1,3 @@
+dotenv express express-handlebars@5.3.3 mysql2 nodemon
+
+"start": "nodemon app.js"
